@@ -25,7 +25,7 @@ This project is an interactive Hospital Emergency Room Dashboard developed using
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot%202026-07-14%20130919.png)
 
 ## 👤 Author
 **Subham Das**
